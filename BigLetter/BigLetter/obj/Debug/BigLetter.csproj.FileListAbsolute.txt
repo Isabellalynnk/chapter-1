@@ -1,0 +1,7 @@
+C:\Users\ik313017\Desktop\C-sharp-projects\BigLetter\BigLetter\bin\Debug\BigLetter.exe.config
+C:\Users\ik313017\Desktop\C-sharp-projects\BigLetter\BigLetter\bin\Debug\BigLetter.exe
+C:\Users\ik313017\Desktop\C-sharp-projects\BigLetter\BigLetter\bin\Debug\BigLetter.pdb
+C:\Users\ik313017\Desktop\C-sharp-projects\BigLetter\BigLetter\obj\Debug\BigLetter.csprojAssemblyReference.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\BigLetter\BigLetter\obj\Debug\BigLetter.csproj.CoreCompileInputs.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\BigLetter\BigLetter\obj\Debug\BigLetter.exe
+C:\Users\ik313017\Desktop\C-sharp-projects\BigLetter\BigLetter\obj\Debug\BigLetter.pdb
